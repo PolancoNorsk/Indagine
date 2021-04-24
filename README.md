@@ -1,2 +1,2 @@
-# polancoGallegos
-indagine statistica
+# tecnica e indagine statistica
+vari grafici 
